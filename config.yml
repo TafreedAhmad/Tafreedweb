@@ -16,12 +16,12 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Projects
-          url: projects/
-          weight: 3
-        - name: Experience
-          url: experience/
-          weight: 4 
+        # - name: Projects
+        #   url: projects/
+        #   weight: 3
+        # - name: Experience
+        #   url: experience/
+        #   weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
@@ -42,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","projects","experience"]
+    MainSections: ["papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,12 +60,12 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Projects
-              url: projects/
-            # - name: Data
-            #   url: data/
-            - name: Experience
-              url: experience/
+            # - name: Projects
+            #   url: projects/
+            # # - name: Data
+            # #   url: data/
+            # - name: Experience
+            #   url: experience/
             # - name: Tags
             #   url: tags/
             # - name: Archive

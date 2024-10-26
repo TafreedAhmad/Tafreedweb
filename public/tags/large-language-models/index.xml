@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Large Language Models on Tafreed Ahmad</title>
-    <link>https://pascalmichaillat.org/hugo-website/tags/large-language-models/</link>
+    <link>https://tafreedahmad.com/tags/large-language-models/</link>
     <description>Recent content in Large Language Models on Tafreed Ahmad</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pascalmichaillat.org/hugo-website/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tafreedahmad.com/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RealitySummary: Exploring On-Demand Mixed Reality Text Summarization and Question Answering using Large Language Models</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper3/</link>
+      <link>https://tafreedahmad.com/papers/paper3/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper3/</guid>
+      <guid>https://tafreedahmad.com/papers/paper3/</guid>
       <description>This paper presents RealitySummary, a mixed reality assistant that uses OCR and large language models for on-demand text summarization and question-answering across physical and digital documents.</description>
     </item>
   </channel>
