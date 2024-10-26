@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Tafreed Ahmad
-          subtitle: "As an undergrad exploring the dynamic intersection of Human-Computer Interaction, AI, AR, and VR, I'm driven by a passion to redefine how we interact with digital and physical worlds. I am currently working alongside <a href='https://www.ryo-suzuki.com/' style='text-decoration: underline;'>Dr. Ryo Suzuki</a>, pushing the boundaries of immersive experiences. Welcome to my digital space!"
+          subtitle: "As an undergrad exploring the dynamic intersection of Human-Computer Interaction, AI, AR, and VR, I'm driven by a passion to redefine how we interact with digital and physical worlds. I am currently working alongside <a href='https://www.ryosuzuki.org/' style='text-decoration: underline;'>Dr. Ryo Suzuki</a>, pushing the boundaries of immersive experiences. Welcome to my digital space!"
           imageUrl: "img1.jpg"
           imageWidth: 175
           imageHeight: 160
