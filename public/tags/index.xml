@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Tafreed Ahmad</title>
+    <link>http://localhost:1313/hugo-website/tags/</link>
+    <description>Recent content in Tags on Tafreed Ahmad</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Augmented Reading</title>
+      <link>http://localhost:1313/hugo-website/tags/augmented-reading/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/augmented-reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-Computer Interaction</title>
+      <link>http://localhost:1313/hugo-website/tags/human-computer-interaction/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Large Language Models</title>
+      <link>http://localhost:1313/hugo-website/tags/large-language-models/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mixed Reality</title>
+      <link>http://localhost:1313/hugo-website/tags/mixed-reality/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/mixed-reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User Studies</title>
+      <link>http://localhost:1313/hugo-website/tags/user-studies/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/user-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/hugo-website/tags/computer-vision/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Custom Datasets</title>
+      <link>http://localhost:1313/hugo-website/tags/custom-datasets/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/custom-datasets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-Time Detection</title>
+      <link>http://localhost:1313/hugo-website/tags/real-time-detection/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/real-time-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YOLOv8</title>
+      <link>http://localhost:1313/hugo-website/tags/yolov8/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/yolov8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facial Recognition</title>
+      <link>http://localhost:1313/hugo-website/tags/facial-recognition/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/facial-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperparameter Optimization</title>
+      <link>http://localhost:1313/hugo-website/tags/hyperparameter-optimization/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/hyperparameter-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Siamese Neural Networks</title>
+      <link>http://localhost:1313/hugo-website/tags/siamese-neural-networks/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/tags/siamese-neural-networks/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

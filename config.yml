@@ -1,0 +1,119 @@
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
+title: Tafreed Ahmad
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
+        - name: Experience
+          url: experience/
+          weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
+
+params:
+    description: "I'm an undergrad delving into the intersection of AR, VR, and AI to push the boundaries of Human-Computer Interaction. Welcome to my digital space!"
+    author: Tafreed Ahmad
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "June 2024"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["papers","projects","experience"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Tafreed Ahmad
+          subtitle: "As an undergrad exploring the dynamic intersection of Human-Computer Interaction, AI, AR, and VR, I'm driven by a passion to redefine how we interact with digital and physical worlds. I am currently working alongside <a href='https://www.ryo-suzuki.com/' style='text-decoration: underline;'>Dr. Ryo Suzuki</a>, pushing the boundaries of immersive experiences. Welcome to my digital space!"
+          imageUrl: "img1.jpg"
+          imageWidth: 175
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Projects
+              url: projects/
+            # - name: Data
+            #   url: data/
+            - name: Experience
+              url: experience/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:atafreed1@gmail.com
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        - name: Location
+          url: location/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=P5AoWNcAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/TafreedAhmad
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        # - name: Twitter
+        #   url: https://twitter.com/McCallSmith
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Tafreed Ahmad"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
